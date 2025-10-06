@@ -1,0 +1,80 @@
+site_name: 筑波大学情報検索リサーチグループ IR Group at Tsukuba
+nav:
+  - ホーム<br/>Home: index.md
+  - 研究トピック<br/>Research Topics: research-topics.md
+  - プロジェクト<br/>Projects: projects.md
+  - メンバー<br/>Members: members.md
+  - 発表論文<br/>Publications: publications.md
+  - セミナー<br/>Seminars: seminars.md
+  - 配属希望者向け<br/>Prospect Students: for-prospect-students.md
+  - 企業の方向け<br/>For Industry: for-industry.md
+theme:
+  name: material
+  language: ja
+  palette:
+    scheme: tsukuba
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.suggest
+    - search.highlight
+  icon:
+    logo: material/alpha-t-circle
+plugins:
+  - search
+  - exclude:
+      glob:
+        - "*.pptx"
+        - "*.ppt"
+        - "*.docx"
+        - "*.xlsx"
+markdown_extensions:
+  - abbr
+  - def_list
+  - footnotes
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/solid/house
+      link: https://ir-tsukuba.github.io/
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/ir_tsukuba
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:ir-tsukuba@ml.cc.tsukuba.ac.jp
+copyright: Copyright &copy; 筑波大学情報検索リサーチグループ. All rights reserved.
