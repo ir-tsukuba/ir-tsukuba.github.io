@@ -1,0 +1,21 @@
+[data-md-color-scheme="tsukuba"] {
+  --md-primary-fg-color:        #5C068C;
+  --md-primary-fg-color--light: #B37CCF;
+  --md-primary-fg-color--dark:  #400464;
+}
+
+.md-typeset .admonition {
+    font-size: .72rem
+}
+
+.md-tabs__list {
+  margin-bottom: 15px;
+}
+
+.md-header__inner {
+  margin-top: 5px;
+}
+
+h1 {
+  display: none;
+}
