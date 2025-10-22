@@ -57,7 +57,7 @@ hide:
         :fontawesome-solid-user: 田貝 奈央 Nao Tagai
 
     !!! tip ""
-        :fontawesome-solid-user: 仲地 優登 Kanato Sato
+        :fontawesome-solid-user: 仲地 優登 Yuto Nakachi
 
     !!! tip ""
         :fontawesome-solid-user: 丸田 敦貴 Atsuki Maruta

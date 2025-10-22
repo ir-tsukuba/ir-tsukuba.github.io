@@ -5,7 +5,7 @@ hide:
 ---
 
 !!! info "研究トピック Research Topics"
-    情報検索グループでは、情報検索技術を中心に、アルゴリズム開発からユーザ実験まで幅広い研究に取り組んでいます。In the Information Retrieval Group, we conduct a wide range of research on information retrieval technologies, spanning from algorithm de
+    情報検索グループでは、情報検索技術を中心に、アルゴリズム開発からユーザ実験まで幅広い研究に取り組んでいます。In the Information Retrieval Group, we conduct a wide range of research on information retrieval technologies, spanning from algorithm development to user experiments.
 
 !!! tip "情報検索アルゴリズム Information Retrieval Algorithms"
 
