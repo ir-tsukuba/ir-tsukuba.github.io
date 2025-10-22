@@ -31,7 +31,7 @@ hide:
 
 !!! abstract "国際会議ワークショップ論文 International workshop Paper"
     Retrieval-Augmented Relevance Judgment for Specialized Domains.  
-    Taichi Motegi, Makoto P. Kato, Kazuhisa Hatakeyama, Yosuke Yurikusa
+    Taichi Motegi, Makoto P. Kato, Kazuhisa Hatakeyama, Yosuke Yurikusa  
     BREV-RAG 2025: Workshop on Benchmarking and Evaluation for Multimodal Retrieval-Augmented Generation (Co-located with SIGIR-AP 2025).
 
 !!! abstract "国際会議論文 International Conference Paper"
