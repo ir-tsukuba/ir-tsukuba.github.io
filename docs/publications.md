@@ -29,22 +29,27 @@ hide:
 
 ## 最新論文
 
-!!! abstract "国際会議論文 Conference Paper"
+!!! abstract "国際会議ワークショップ論文 International workshop Paper"
+    Retrieval-Augmented Relevance Judgment for Specialized Domains.  
+    Taichi Motegi, Makoto P. Kato, Kazuhisa Hatakeyama, Yosuke Yurikusa
+    BREV-RAG 2025: Workshop on Benchmarking and Evaluation for Multimodal Retrieval-Augmented Generation (Co-located with SIGIR-AP 2025).
+
+!!! abstract "国際会議論文 International Conference Paper"
     Impact of LLM-modified Queries and Documents in Training Data on Neural Retrieval Models.  
     Yuto Nakachi, Makoto P. Kato  
     SIGIR-AP 2025: Proceedings of the 3rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, Dec, 2025
 
-!!! abstract "国際会議論文 Conference Paper"
+!!! abstract "国際会議論文 International Conference Paper"
     A Combination-based Framework for Generative Text-image Retrieval: Dual Identifiers and Hybrid Retrieval Strategies.  
     Kaipeng Li, Haitao Yu, Yubo Fang, Chao Lei  
     SIGIR-AP 2025: Proceedings of the 3rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, Dec, 2025
 
-!!! abstract "国際会議論文 Conference Paper"
+!!! abstract "国際会議論文 International Conference Paper"
     Geniie-Lab: A Testbed for Controlled Experimentation of Model Search Behaviour.  
     Hideo Joho  
     SIGIR-AP 2025: Proceedings of the 3rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, Dec, 2025
 
-!!! abstract "国際会議論文 Conference Paper"
+!!! abstract "国際会議論文 International Conference Paper"
     Beyond Static Evaluation: A Theoretical Framework for Assessing Personalized Agent Adaptability in Information Retrieval Tasks.  
     Kirandeep Kaur, Preetam Dammu, Hideo Joho, Chirag Shah  
     SIGIR-AP 2025: Proceedings of the 3rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, Dec, 2025
