@@ -13,7 +13,7 @@ hide:
 <div class="grid" markdown>
 
 !!! tip "BREV-RAG 2025に論文が採択 Paper accepted at BREV-RAG 2025"
-    [BREV-RAG 2025](http://sakailab.com/brev-rag/)（SIGIR-AP 2025併設ワークショップ）に情報検索リサーチグループから[論文が採択](publications.md)されました！ A [paper](publications.md) from the Information Retrieval Research Group have been accepted to [BREV-RAG 2025](http://sakailab.com/brev-rag/) (Co-located workshp with SIGIR-AP 2025)!
+    [BREV-RAG 2025](http://sakailab.com/brev-rag/)（SIGIR-AP 2025併設ワークショップ）に情報検索リサーチグループから[論文が採択](publications.md)されました！ A [paper](publications.md) from the Information Retrieval Research Group have been accepted to [BREV-RAG 2025](http://sakailab.com/brev-rag/) (Co-located workshop with SIGIR-AP 2025)!
 
     :calendar: 2025.10.21
 
