@@ -12,6 +12,11 @@ hide:
 
 <div class="grid" markdown>
 
+    :calendar: 2025.12.24
+
+!!! tip "CHIIR 2026"に1本の論文が採択　One paper accepted at CHIIR 2026
+    2026年3月に米国シアトルで開催される[CHIIR 2026](https://chiir2026.github.io/)に情報検索リサーチグループから[１本の論文が採択](publications.md)されました！ A [paper](publications.md) accepted from the Information Retrieval Research Group have been accepted to [CHIIR 2026](https://chiir2026.github.io/), which will be held in Seattle, US in March 2026!
+
 !!! tip "BREV-RAG 2025に論文が採択 Paper accepted at BREV-RAG 2025"
     [BREV-RAG 2025](http://sakailab.com/brev-rag/)（SIGIR-AP 2025併設ワークショップ）に情報検索リサーチグループから[論文が採択](publications.md)されました！ A [paper](publications.md) from the Information Retrieval Research Group have been accepted to [BREV-RAG 2025](http://sakailab.com/brev-rag/) (Co-located workshop with SIGIR-AP 2025)!
 
