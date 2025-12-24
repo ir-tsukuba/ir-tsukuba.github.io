@@ -12,18 +12,6 @@ hide:
 
 <div class="grid" markdown>
 
-    :calendar: 2025.12.24
-
-!!! abstract "国際会議論文 International Conference Paper"
-    CollabSearch: A Study of User–LLM Collaboration in Task-Based Search  
-    Gloris Denisse Cedeño Batista, Joemon M. Jose, Hideo Joho  
-    CHIIR 2026: Proceedings of the 2026 ACM SIGIR Conference on Human Information Interaction and Retrieval
- 
-!!! abstract "国際会議チュートリアル論文 International Conference Tutorial Paper"
-    Controlled Experimentation of Model Search Behaviour with Geniie-Lab  
-    Hideo Joho  
-    CHIIR 2026: Proceedings of the 2026 ACM SIGIR Conference on Human Information Interaction and Retrieval
-
 !!! tip "BREV-RAG 2025に論文が採択 Paper accepted at BREV-RAG 2025"
     [BREV-RAG 2025](http://sakailab.com/brev-rag/)（SIGIR-AP 2025併設ワークショップ）に情報検索リサーチグループから[論文が採択](publications.md)されました！ A [paper](publications.md) from the Information Retrieval Research Group have been accepted to [BREV-RAG 2025](http://sakailab.com/brev-rag/) (Co-located workshop with SIGIR-AP 2025)!
 
