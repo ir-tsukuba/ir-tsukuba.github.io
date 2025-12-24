@@ -12,6 +12,8 @@ hide:
 
 <div class="grid" markdown>
 
+    :calendar: 2025.12.24
+
 !!! abstract "国際会議論文 International Conference Paper"
     CollabSearch: A Study of User–LLM Collaboration in Task-Based Search  
     Gloris Denisse Cedeño Batista, Joemon M. Jose, Hideo Joho  
