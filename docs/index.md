@@ -12,7 +12,10 @@ hide:
 
 <div class="grid" markdown>
 
-!!! tip "CHIIR 2026"に1本の論文が採択 One paper accepted at CHIIR 2026"
+!!! tip "CHIIR 2026のチュートリアルに1本の論文が採択 One paper accepted at CHIIR 2026 Tutorial"
+    2026年3月に米国シアトルで開催される[CHIIR 2026](https://chiir2026.github.io/tutorials-program.html)のチュートリアル論文に情報検索リサーチグループから[１本の論文が採択](publications.md)されました！ A [paper](publications.md) accepted from the Information Retrieval Research Group have been accepted to [CHIIR 2026 Tutorial](https://chiir2026.github.io/tutorials-program.html), which will be held in Seattle, US in March 2026!
+
+!!! tip "CHIIR 2026に1本の論文が採択 One paper accepted at CHIIR 2026"
     2026年3月に米国シアトルで開催される[CHIIR 2026](https://chiir2026.github.io/)に情報検索リサーチグループから[１本の論文が採択](publications.md)されました！ A [paper](publications.md) accepted from the Information Retrieval Research Group have been accepted to [CHIIR 2026](https://chiir2026.github.io/), which will be held in Seattle, US in March 2026!
 
     :calendar: 2025.12.24
