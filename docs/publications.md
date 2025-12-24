@@ -63,3 +63,8 @@ hide:
     Beyond Static Evaluation: A Theoretical Framework for Assessing Personalized Agent Adaptability in Information Retrieval Tasks.  
     Kirandeep Kaur, Preetam Dammu, Hideo Joho, Chirag Shah  
     SIGIR-AP 2025: Proceedings of the 3rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, Dec, 2025
+
+!!! abstract "国際会議論文 International Conference Paper"
+    Effects of Image Samples on In-Context Learning of Multimodal Large Language Models.  
+    Tomoya Ikeda and Shuhei Yamamoto  
+    iiWAS 2025: The 27th International Conference on Information Integration and Web Intelligence, Dec. 2025
