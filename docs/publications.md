@@ -29,6 +29,16 @@ hide:
 
 ## 最新論文
 
+!!! abstract "国際会議論文 International Conference Paper"
+    CollabSearch: A Study of User–LLM Collaboration in Task-Based Search  
+    Gloris Denisse Cedeño Batista, Joemon M. Jose, Hideo Joho  
+    CHIIR 2026: Proceedings of the 2026 ACM SIGIR Conference on Human Information Interaction and Retrieval
+ 
+!!! abstract "国際会議チュートリアル論文 International Conference Tutorial Paper"
+    Controlled Experimentation of Model Search Behaviour with Geniie-Lab  
+    Hideo Joho  
+    CHIIR 2026: Proceedings of the 2026 ACM SIGIR Conference on Human Information Interaction and Retrieval
+
 !!! abstract "国際会議ワークショップ論文 International workshop Paper"
     Retrieval-Augmented Relevance Judgment for Specialized Domains.  
     Taichi Motegi, Makoto P. Kato, Kazuhisa Hatakeyama, Yosuke Yurikusa  
