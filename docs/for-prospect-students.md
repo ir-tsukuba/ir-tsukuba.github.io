@@ -17,7 +17,7 @@ hide:
     - リサーチセミナー Research Seminars
     - 研究発表会 Research Presentation
     - 学会発表練習会 Presentation Rehearsal
-    - BBQ会 BBQ Party
+    - バーベキュー BBQ
 
 ## 構成研究室 Labs
 
