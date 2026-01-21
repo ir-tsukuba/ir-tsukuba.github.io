@@ -11,11 +11,11 @@ hide:
 ## 2026年
 
 
-??? example "リサーチセミナー Research Seminar #3 2026.03.18（調整中）"
+!!! example "リサーチセミナー Research Seminar #3 2026.03.18"
     - 日付 Date：2026.03.18
-    - 発表者 Speaker：調整中 TBA
-    - 題目 Title：調整中 TBA
-    - 要旨 Abstract：調整中 TBA
+    - 発表者 Speaker：Benjamin Clavié (Mixedbread / National Institute of Informatics)
+    - 題目 Title：ColBERT and Late Interaction Retrieval: Why, How, and What Next?
+    - 要旨 Abstract：Within Neural IR, three major paradigms have emerged: dense single-vector retrieval (e.g. DPR), the most dominant one, contextualized sparse retrieval (e.g. SPLADE), and dense multi-vector retrieval (ColBERT), also called "late interaction". In this talk, we will briefly discuss the strengths and weaknesses of each of those paradigms. We will then take a deeper dive into late interaction models and cover both their theoretical and practical advantages. We will then assess how much we understand about the mechanisms of late interaction models, covering aspects which are well-understood as well as others which remain empirical or subject to strong practical constraints. Building on this, we will finally outline potential next steps for late interaction methods.
 
 !!! example "リサーチセミナー Research Seminar #2 2026.02.18"
     - 日付 Date：2026.02.18
