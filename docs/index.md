@@ -12,6 +12,13 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "第１回研究セミナー開催 1st Research Seminar"
+    ![](images/IMG_2470.png){ align="right" width="30%" }
+    IRグループ主催の[研究セミナー](seminars.md)にて、筑波大学の上保秀夫氏による「モデル検索行動」の講演が行われました。On 14th January 2026, the IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Hideo Joho (Univ. of Tsukuba), titled "Model Search Behaviour."
+
+    :calendar: 2026.1.14
+
+
 !!! tip "CHIIR 2026 Tutorialに1本の論文が採択 One paper accepted at CHIIR 2026 Tutorial"
     2026年3月に米国シアトルで開催される[CHIIR 2026](https://chiir2026.github.io/tutorials-program.html)のチュートリアル論文に情報検索リサーチグループから[１本の論文が採択](publications.md)されました！ A [paper](publications.md) accepted from the Information Retrieval Research Group have been accepted to [CHIIR 2026 Tutorial](https://chiir2026.github.io/tutorials-program.html), which will be held in Seattle, US in March 2026!
 
