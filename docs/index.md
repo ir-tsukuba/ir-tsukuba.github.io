@@ -14,7 +14,7 @@ hide:
 
 !!! tip "第１回研究セミナー開催 1st Research Seminar"
     ![](images/IMG_2470.png){ align="right" width="30%" }
-    IRグループ主催の[研究セミナー](seminars.md)にて、筑波大学の上保秀夫氏による「モデル検索行動」の講演が行われました。On 14th January 2026, the IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Hideo Joho (Univ. of Tsukuba), titled "Model Search Behaviour."
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、筑波大学の上保秀夫氏による「モデル検索行動」の講演が行われました。On 14th January 2026, the IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Hideo Joho (Univ. of Tsukuba), titled "Model Search Behaviour."
 
     :calendar: 2026.1.14
 
@@ -28,6 +28,13 @@ hide:
     2026年3月に米国シアトルで開催される[CHIIR 2026](https://chiir2026.github.io/)に情報検索リサーチグループから[１本の論文が採択](publications.md)されました！ A [paper](publications.md) accepted from the Information Retrieval Research Group have been accepted to [CHIIR 2026](https://chiir2026.github.io/), which will be held in Seattle, US in March 2026!
 
     :calendar: 2025.12.24
+
+!!! tip "SIGIR-AP 2025に参加 SIGIR-AP 2025 Participation"
+    ![](images/Image_20260203141326_696_6.png){ align="right" width="30%" }
+    2025年12月に中国西安で開催された[SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/)および併設ワークショップに情報検索リサーチグループから8名が参加しました！Eight members of the Information Retrieval Research Group participated in [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) and its co-located workshop, held in Xi'an, China in December 2025!
+
+    :calendar: 2025.12.8-10
+
 
 !!! tip "BREV-RAG 2025に論文が採択 Paper accepted at BREV-RAG 2025"
     [BREV-RAG 2025](http://sakailab.com/brev-rag/)（SIGIR-AP 2025併設ワークショップ）に情報検索リサーチグループから[論文が採択](publications.md)されました！ A [paper](publications.md) from the Information Retrieval Research Group have been accepted to [BREV-RAG 2025](http://sakailab.com/brev-rag/) (Co-located workshop with SIGIR-AP 2025)!
