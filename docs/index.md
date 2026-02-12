@@ -13,7 +13,7 @@ hide:
 <div class="grid" markdown>
 
 !!! tip "DASFAA 2026 に1本の論文が採択 One paper accepted at DASFAA 2026 Tutorial"
-    2026年8月に韓国で開催される[DASFAA 2026](https://dasfaa2026.github.io/)に情報検索リサーチグループから[1本の論文](publication.md)が採択されました！ A [paper](publication.md) accepted from the Information Retrieval Research Group have been accepted to [DASFAA 2026](https://dasfaa2026.github.io/), which will be held in South Korea in August 2026!
+    2026年8月に韓国で開催される[DASFAA 2026](https://dasfaa2026.github.io/)に情報検索リサーチグループから[1本の論文](publications.md)が採択されました！ A [paper](publications.md) accepted from the Information Retrieval Research Group have been accepted to [DASFAA 2026](https://dasfaa2026.github.io/), which will be held in South Korea in August 2026!
 
     :calendar: 2026.2.12
     
