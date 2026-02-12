@@ -30,6 +30,11 @@ hide:
 ## 最新論文
 
 !!! abstract "国際会議論文 International Conference Paper"
+    Retrieval-augmented Diffusion Language Model for Generative Commonsense Reasoning
+    Fang Yubo, Haitao Yu, Hideo Joho and Sumio Fujita
+    DASFAA 2026: Proceedings of the 31st International Conference on Database Systems for Advanced Application
+
+!!! abstract "国際会議論文 International Conference Paper"
     CollabSearch: A Study of User–LLM Collaboration in Task-Based Search  
     Gloris Denisse Cedeño Batista, Joemon M. Jose, Hideo Joho  
     CHIIR 2026: Proceedings of the 2026 ACM SIGIR Conference on Human Information Interaction and Retrieval
