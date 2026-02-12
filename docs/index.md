@@ -16,6 +16,7 @@ hide:
     2026年8月に韓国で開催される[DASFAA 2026](https://dasfaa2026.github.io/)に情報検索リサーチグループから[1本の論文](publication.md)が採択されました！ A [paper](publication.md) accepted from the Information Retrieval Research Group have been accepted to [DASFAA 2026](https://dasfaa2026.github.io/), which will be held in South Korea in August 2026!
 
     :calendar: 2026.2.12
+    
 
 !!! tip "第１回研究セミナー開催 1st Research Seminar"
     ![](images/IMG_2470.png){ align="right" width="30%" }
