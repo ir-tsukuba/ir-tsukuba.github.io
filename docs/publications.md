@@ -30,8 +30,8 @@ hide:
 ## 最新論文
 
 !!! abstract "国際会議論文 International Conference Paper"
-    Retrieval-augmented Diffusion Language Model for Generative Commonsense Reasoning
-    Fang Yubo, Haitao Yu, Hideo Joho and Sumio Fujita
+    Retrieval-augmented Diffusion Language Model for Generative Commonsense Reasoning  
+    Fang Yubo, Haitao Yu, Hideo Joho and Sumio Fujita  
     DASFAA 2026: Proceedings of the 31st International Conference on Database Systems for Advanced Application
 
 !!! abstract "国際会議論文 International Conference Paper"
