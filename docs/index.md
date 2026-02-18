@@ -12,13 +12,21 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "第2回研究セミナー開催 2nd Research Seminar"
+    ![](images/IMG_2964.png){ align="right" width="30%" }
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、RMIT大学のJiamn He氏による「Characterizing Personality from Eye-Tracking: The Role of Gaze and Its Absence in Interactive Search Environments」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Ms Jiaman He (RMIT University), titled "Characterizing Personality from Eye-Tracking: The Role of Gaze and Its Absence in Interactive Search Environments."
+
+    :calendar: 2026.2.18
+
+
+
 !!! tip "DASFAA 2026 に1本の論文が採択 One paper accepted at DASFAA 2026 Tutorial"
     2026年8月に韓国で開催される[DASFAA 2026](https://dasfaa2026.github.io/)に情報検索リサーチグループから[1本の論文](publications.md)が採択されました！ A [paper](publications.md) accepted from the Information Retrieval Research Group have been accepted to [DASFAA 2026](https://dasfaa2026.github.io/), which will be held in South Korea in August 2026!
 
     :calendar: 2026.2.12
     
 
-!!! tip "第１回研究セミナー開催 1st Research Seminar"
+!!! tip "第1回研究セミナー開催 1st Research Seminar"
     ![](images/IMG_2470.png){ align="right" width="30%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、筑波大学の上保秀夫氏による「モデル検索行動」の講演が行われました。On 14th January 2026, the IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Hideo Joho (Univ. of Tsukuba), titled "Model Search Behaviour."
 

@@ -19,6 +19,8 @@ hide:
     - プロフィール Bio：Benjamin Clavié is a senior researcher at MixedBread AI and a PhD student at the National Institute of Informatics, based in Tokyo, Japan. He specializes in natural language processing and information retrieval, with a focus on late-interaction (“ColBERT”) models and novel scoring paradigms in general. Recently, Ben co-led the ModernBERT project, contributing significantly to renewed interest in streamlined, encoder-only models. He earned his MSc in Artificial Intelligence from the University of Edinburgh in Scotland.
 
 !!! example "リサーチセミナー Research Seminar #2 2026.02.18"
+    ![](images/IMG_2964.png){ align="right" width="40%" }
+
     - 日付 Date：2026.02.18
     - 発表者 Speaker：Jiaman He (RMIT University)
     - 題目 Title：Characterizing Personality from Eye-Tracking: The Role of Gaze and Its Absence in Interactive Search Environments
