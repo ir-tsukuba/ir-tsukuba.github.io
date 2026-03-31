@@ -12,8 +12,16 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "卒業式・修了式 2026 Graduation 2026"
+    ![](images/Image4.jpeg){ width="100%" }
+    ご卒業、修了おめでとうございます！今後のご活躍を心よりお祈りしています。
+    A big congratulations to all IR Group members who graduated this March! Wishing each of you continued growth, success, and meaningful adventures ahead.
+
+    :calendar: 2026.3.25
+
+
 !!! tip "第2回研究セミナー開催 2nd Research Seminar"
-    ![](images/IMG_2964.png){ align="right" width="30%" }
+    ![](images/IMG_2964.png){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、RMIT大学のJiamn He氏による「Characterizing Personality from Eye-Tracking: The Role of Gaze and Its Absence in Interactive Search Environments」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Ms Jiaman He (RMIT University), titled "Characterizing Personality from Eye-Tracking: The Role of Gaze and Its Absence in Interactive Search Environments."
 
     :calendar: 2026.2.18
@@ -27,7 +35,7 @@ hide:
     
 
 !!! tip "第1回研究セミナー開催 1st Research Seminar"
-    ![](images/IMG_2470.png){ align="right" width="30%" }
+    ![](images/IMG_2470.png){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、筑波大学の上保秀夫氏による「モデル検索行動」の講演が行われました。On 14th January 2026, the IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Hideo Joho (Univ. of Tsukuba), titled "Model Search Behaviour."
 
     :calendar: 2026.1.14
@@ -44,7 +52,7 @@ hide:
     :calendar: 2025.12.24
 
 !!! tip "SIGIR-AP 2025に参加 SIGIR-AP 2025 Participation"
-    ![](images/Image_20260203141326_696_6.png){ align="right" width="30%" }
+    ![](images/Image_20260203141326_696_6.png){ width="100%" }
     2025年12月に中国西安で開催された[SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/)および併設ワークショップに情報検索リサーチグループから8名が参加しました！Eight members of the Information Retrieval Research Group participated in [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) and its co-located workshop, held in Xi'an, China in December 2025!
 
     :calendar: 2025.12.8-10
