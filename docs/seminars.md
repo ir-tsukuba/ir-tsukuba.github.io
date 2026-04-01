@@ -10,8 +10,15 @@ hide:
 
 ## 2026年
 
+!!! example "リサーチセミナー Research Seminar #4 2026.04.15"
+    - 日付 Date：2026.04.15
+    - 発表者 Speaker：ファム・フーロン（筑波大学）Huu-Long Pham (University of Tsukuba)
+    - 題目 Title：機械学習モデル検索 Machine Learning Model Retrieval
+    - 要旨 Abstract：現在、AI技術は急速に発展し、自然言語処理や画像処理など多くの分野で活用されている。機械学習モデルは、学習データの種類や構造によって異なる性質を持ち、法律や医療など特定分野に特化したものも存在する。ユーザは自身の解きたい課題に適したものを無数のモデルから選ぶ必要があるが、最適なモデルの発見には多大なコストがかかる。そこで本研究では、Web上に提供されている多様な機械学習モデルの中から、ユーザの特定の課題に最適なモデルを効率的に検索する手法の確立を目指している。Currently, AI technology is rapidly developing and being applied in many fields, such as natural language processing and image processing. Machine learning models possess different characteristics depending on their structure and training data, with some specifically tailored for domains like law and medical field. While users must select the most appropriate model for their specific tasks from countless available options, discovering the optimal model incurs significant costs. Therefore, the goal of this research is to establish a method for efficiently retrieving the appropriate models for a user's specific task from the diverse array of machine learning models available on the Web.
+    - プロフィール Bio：筑波大学 図書館情報メディア系 特任助教。博士（情報科学、兵庫県立大学）。専門分野は機械学習モデルの検索。Huu-Long Pham earned his PhD Degree at University of Hyogo. His research focuses in Machine Learning Model Retrieval
 
-!!! example "リサーチセミナー Research Seminar #3 2026.03.18"
+
+!!! example "リサーチセミナー Research Seminar #3 2026.03.18（延期）"
     - 日付 Date：2026.03.18
     - 発表者 Speaker：Benjamin Clavié (Mixedbread / National Institute of Informatics)
     - 題目 Title：ColBERT and Late Interaction Retrieval: Why, How, and What Next?
