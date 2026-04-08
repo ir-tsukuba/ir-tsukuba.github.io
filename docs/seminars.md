@@ -10,6 +10,13 @@ hide:
 
 ## 2026年
 
+!!! example "リサーチセミナー Research Seminar #5 2026.05.20"
+    - 日付 Date：2026.05.20
+    - 発表者 Speaker：Benjamin Clavié (Mixedbread / National Institute of Informatics)
+    - 題目 Title：ColBERT and Late Interaction Retrieval: Why, How, and What Next?
+    - 要旨 Abstract：Within Neural IR, three major paradigms have emerged: dense single-vector retrieval (e.g. DPR), the most dominant one, contextualized sparse retrieval (e.g. SPLADE), and dense multi-vector retrieval (ColBERT), also called "late interaction". In this talk, we will briefly discuss the strengths and weaknesses of each of those paradigms. We will then take a deeper dive into late interaction models and cover both their theoretical and practical advantages. We will then assess how much we understand about the mechanisms of late interaction models, covering aspects which are well-understood as well as others which remain empirical or subject to strong practical constraints. Building on this, we will finally outline potential next steps for late interaction methods.
+    - プロフィール Bio：Benjamin Clavié is a senior researcher at MixedBread AI and a PhD student at the National Institute of Informatics, based in Tokyo, Japan. He specializes in natural language processing and information retrieval, with a focus on late-interaction (“ColBERT”) models and novel scoring paradigms in general. Recently, Ben co-led the ModernBERT project, contributing significantly to renewed interest in streamlined, encoder-only models. He earned his MSc in Artificial Intelligence from the University of Edinburgh in Scotland.
+
 !!! example "リサーチセミナー Research Seminar #4 2026.04.15"
     - 日付 Date：2026.04.15
     - 発表者 Speaker：ファム・フーロン（筑波大学）Huu-Long Pham (University of Tsukuba)
