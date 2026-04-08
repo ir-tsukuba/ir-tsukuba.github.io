@@ -30,13 +30,13 @@ hide:
 ## 最新論文
 
 !!! abstract "国際会議論文 International Conference Paper"
-    NumColBERT: Non-Intrusive Numeracy Injection for Late-Interaction Retrieval Models
-    Haruki Fujimaki, Makoto P. Kato
+    NumColBERT: Non-Intrusive Numeracy Injection for Late-Interaction Retrieval Models    
+    Haruki Fujimaki, Makoto P. Kato    
     SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 !!! abstract "国際会議論文 International Conference Paper"
-    H-MAPS: Hierarchical Memory-Augmented Proactive Search Assistant for Scientific Literature
-    Koji Nishikawa, Makoto P. Kato
+    H-MAPS: Hierarchical Memory-Augmented Proactive Search Assistant for Scientific Literature    
+    Koji Nishikawa, Makoto P. Kato    
     SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 !!! abstract "国際会議論文 International Conference Paper"
