@@ -5,8 +5,8 @@ hide:
 ---
 
 !!! info "ようこそ！ Welcome!"
-    筑波大学情報検索グループは、現在４つの研究室が連携し、アルゴリズムからユーザまで多角的に情報検索研究を展開しています。  
-    The Information Retrieval Group at the University of Tsukuba is a collaboration of four labs, advancing IR research from algorithms to users.
+    筑波大学情報検索グループは、現在５つの研究室が連携し、アルゴリズムからユーザまで多角的に情報検索研究を展開しています。  
+    The Information Retrieval Group at the University of Tsukuba is a collaboration of five labs, advancing IR research from algorithms to users.
 
 ## 最新情報 Latest Information
 
@@ -17,6 +17,10 @@ hide:
 
     :calendar: 2026.4.3
 
+!!! tip "ファム先生がIRグループに加入 Pham Lab joined the IR Group"
+    2026年4月1日付で筑波大学図書館情報メディア系に着任されたファム・フーロン先生が情報検索リサーチグループの[メンバー](members.md)に加入されました！ Dr. Huu Long Pham has joined the [members](members.md) of the Information Retrieval Research Group as of 1st April, 2026!
+
+    :calendar: 2026.4.1
 
 !!! tip "卒業式・修了式 2026 Graduation 2026"
     ![](images/Image4.jpeg){ width="100%" }

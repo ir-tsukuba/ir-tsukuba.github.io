@@ -23,6 +23,9 @@ hide:
         :fontawesome-solid-user: 上保 秀夫 Hideo Joho
 
     !!! tip ""
+        :fontawesome-solid-user: ファム フーロン Huu Long Pham
+
+    !!! tip ""
         :fontawesome-solid-user: 山本 修平 Shuhei Yamamoto
     
     </div>
