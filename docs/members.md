@@ -62,6 +62,9 @@ hide:
     !!! tip ""
         :fontawesome-solid-user: 仲地 優登 Yuto Nakachi
 
+    !!! tip ""
+        :fontawesome-solid-user: 小川	晃 Akira Ogawa
+
     </div>
 
     ## 博士前期課程 Masters Students
