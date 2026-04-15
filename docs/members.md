@@ -62,9 +62,6 @@ hide:
     !!! tip ""
         :fontawesome-solid-user: 仲地 優登 Yuto Nakachi
 
-    !!! tip ""
-        :fontawesome-solid-user: 丸田 敦貴 Atsuki Maruta
-
     </div>
 
     ## 博士前期課程 Masters Students
@@ -87,9 +84,6 @@ hide:
         :fontawesome-solid-user: 鄒 国璇 Guoxuan Zou
 
     !!! tip ""
-        :fontawesome-solid-user: 茂手木 太一 Taichi Motegi
-
-    !!! tip ""
         :fontawesome-solid-user: 藤巻 晴葵 Haruki Fujimaki
 
     !!! tip ""
@@ -100,9 +94,6 @@ hide:
 
     !!! tip ""
         :fontawesome-solid-user: 本藤 祐大 Yuta Hondo
-
-    !!! tip ""
-        :fontawesome-solid-user: 伊藤 拓誠 Takumi Ito
 
     !!! tip ""
         :fontawesome-solid-user: 山口 龍空 Yamaguchi Ryuku
@@ -173,6 +164,12 @@ hide:
 
 === "過去 Alumni"
 
-    !!! info ""
-        まだいません。
-        No one yet.
+    !!! tip ""
+        :fontawesome-solid-user: 丸田 敦貴 Atsuki Maruta
+
+    !!! tip ""
+        :fontawesome-solid-user: 茂手木 太一 Taichi Motegi
+
+    !!! tip ""
+        :fontawesome-solid-user: 伊藤 拓誠 Takumi Ito
+
