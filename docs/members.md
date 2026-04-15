@@ -104,25 +104,8 @@ hide:
     !!! tip ""
         :fontawesome-solid-user: テイ エキセイ Yicheng Ding
 
-    </div>
-
-    ## 研究生 Research Students
-
-    <div class="grid" markdown>
-
     !!! tip ""
         :fontawesome-solid-user: 徐 美珍 Meizhen Xu
-
-    !!! tip ""
-        :fontawesome-solid-user: 池田 智哉 Tomoya Ikeda
-
-    </div>
-
-    ## 学群生 Bachelor Students
-
-    <div class="grid" markdown>
-    !!! tip ""
-        :fontawesome-solid-user: 有賀 大翼 Daito Ariga
 
     !!! tip ""
         :fontawesome-solid-user: 黒川 悠馬 Yuma Kurokawa
@@ -135,6 +118,26 @@ hide:
 
     !!! tip ""
         :fontawesome-solid-user: 花岡 愛梨 Eri Hanaoka
+
+    !!! tip ""
+        :fontawesome-solid-user: 張 暁天 Xiaotian Zhang
+
+    </div>
+
+    ## 研究生 Research Students
+
+    <div class="grid" markdown>
+
+    !!! tip ""
+        :fontawesome-solid-user: 池田 智哉 Tomoya Ikeda
+
+    </div>
+
+    ## 学群生 Bachelor Students
+
+    <div class="grid" markdown>
+    !!! tip ""
+        :fontawesome-solid-user: 有賀 大翼 Daito Ariga
 
     !!! tip ""
         :fontawesome-solid-user: 岩根 こころ Kokoro Iwane
@@ -159,6 +162,21 @@ hide:
 
     !!! tip ""
         :fontawesome-solid-user: 水口 陸 Mizuguchi Riku
+
+    !!! tip ""
+        :fontawesome-solid-user: 佐藤 匠真 Takuma Sato
+
+    !!! tip ""
+        :fontawesome-solid-user: 高橋 明楽 Akira Takahashi
+
+    !!! tip ""
+        :fontawesome-solid-user: 高橋 空希 Soraki Takahashi
+
+    !!! tip ""
+        :fontawesome-solid-user: 藤貫 哲生 Tessho Fujinuki
+
+    !!! tip ""
+        :fontawesome-solid-user: 松浦 唯永 Yuito Matsuura
 
     </div>
 
