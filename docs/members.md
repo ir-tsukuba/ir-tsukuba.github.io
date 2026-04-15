@@ -164,6 +164,8 @@ hide:
 
 === "過去 Alumni"
 
+    <div class="grid" markdown>
+
     !!! tip ""
         :fontawesome-solid-user: 丸田 敦貴 Atsuki Maruta
 
@@ -173,3 +175,4 @@ hide:
     !!! tip ""
         :fontawesome-solid-user: 伊藤 拓誠 Takumi Ito
 
+    </div>
