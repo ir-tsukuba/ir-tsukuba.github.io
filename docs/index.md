@@ -12,8 +12,8 @@ hide:
 
 <div class="grid" markdown>
 
-!!! tip "SIGIR 2026に2本の論文が採択 Two papers accepted at SIGIR 2026"
-    2026年7月にオーストラリア・メルボルンで開催される[SIGIR 2026](https://sigir2026.org/)に情報検索リサーチグループから[２本の論文が採択](publications.md)されました！ [Two papers](publications.md) from the Information Retrieval Research Group have been accepted to [SIGIR 2026](https://sigir2026.org/), which will be held in Melbourne, Australia in July 2026!
+!!! tip "SIGIR 2026に3本の論文が採択 Three papers accepted at SIGIR 2026"
+    2026年7月にオーストラリア・メルボルンで開催される[SIGIR 2026](https://sigir2026.org/)に情報検索リサーチグループから[3本の論文が採択](publications.md)されました！ [Three papers](publications.md) from the Information Retrieval Research Group have been accepted to [SIGIR 2026](https://sigir2026.org/), which will be held in Melbourne, Australia in July 2026!
 
     :calendar: 2026.4.3
 
