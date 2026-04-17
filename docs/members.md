@@ -173,13 +173,13 @@ hide:
         :fontawesome-solid-user: 松浦 唯永 Yuito Matsuura
 
     !!! tip ""
-        :fontawesome-solid-user: 加藤 才蔵　Saizo Kato
+        :fontawesome-solid-user: 加藤 才蔵 Saizo Kato
 
     !!! tip ""
-        :fontawesome-solid-user: 鴨志田 蓮　Ren Kamoshida
+        :fontawesome-solid-user: 鴨志田 蓮 Ren Kamoshida
 
     !!! tip ""
-        :fontawesome-solid-user: 川崎 佑斗　Yuto Kawasaki
+        :fontawesome-solid-user: 川崎 佑斗 Yuto Kawasaki
 
     </div>
 
