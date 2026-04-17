@@ -18,6 +18,8 @@ hide:
     - プロフィール Bio：Benjamin Clavié is a senior researcher at MixedBread AI and a PhD student at the National Institute of Informatics, based in Tokyo, Japan. He specializes in natural language processing and information retrieval, with a focus on late-interaction (“ColBERT”) models and novel scoring paradigms in general. Recently, Ben co-led the ModernBERT project, contributing significantly to renewed interest in streamlined, encoder-only models. He earned his MSc in Artificial Intelligence from the University of Edinburgh in Scotland.
 
 !!! example "リサーチセミナー Research Seminar #4 2026.04.15"
+    ![](images/IMG_2625.png){ align="right" width="40%" }
+
     - 日付 Date：2026.04.15
     - 発表者 Speaker：ファム・フーロン（筑波大学）Huu-Long Pham (University of Tsukuba)
     - 題目 Title：機械学習モデル検索 Machine Learning Model Retrieval
