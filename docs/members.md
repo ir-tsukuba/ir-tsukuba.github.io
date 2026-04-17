@@ -143,15 +143,6 @@ hide:
         :fontawesome-solid-user: 有賀 大翼 Daito Ariga
 
     !!! tip ""
-        :fontawesome-solid-user: 岩根 こころ Kokoro Iwane
-
-    !!! tip ""
-        :fontawesome-solid-user: 佐藤 翔斗 Kanato Sato
-
-    !!! tip ""
-        :fontawesome-solid-user: 寺田 敬紀 Takanori Terada
-
-    !!! tip ""
         :fontawesome-solid-user: 後藤 侑美 Goto Yuumi
 
     !!! tip ""
@@ -181,19 +172,57 @@ hide:
     !!! tip ""
         :fontawesome-solid-user: 松浦 唯永 Yuito Matsuura
 
+    !!! tip ""
+        :fontawesome-solid-user: 加藤 才蔵　Saizo Kato
+
+    !!! tip ""
+        :fontawesome-solid-user: 鴨志田 蓮　Ren Kamoshida
+
+    !!! tip ""
+        :fontawesome-solid-user: 川崎 佑斗　Yuto Kawasaki
+
     </div>
 
 === "過去 Alumni"
+
+    ## 博士後期課程 PhD Students
 
     <div class="grid" markdown>
 
     !!! tip ""
         :fontawesome-solid-user: 丸田 敦貴 Atsuki Maruta
 
+    </div>
+
+    ## 博士前期課程 Masters Students
+    
+    <div class="grid" markdown>
+    !!! tip ""
+        :fontawesome-solid-user: 伊藤 拓誠 Takumi Ito
+
     !!! tip ""
         :fontawesome-solid-user: 茂手木 太一 Taichi Motegi
 
+    </div>
+
+    ## 研究生 Research Students
+
+    <div class="grid" markdown>
+
+    </div>
+
+    ## 学群生 Bachelor Students
+
+    <div class="grid" markdown>
+
     !!! tip ""
-        :fontawesome-solid-user: 伊藤 拓誠 Takumi Ito
+        :fontawesome-solid-user: 岩根 こころ Kokoro Iwane
+
+    !!! tip ""
+        :fontawesome-solid-user: 佐藤 翔斗 Kanato Sato
+
+    !!! tip ""
+        :fontawesome-solid-user: 寺田 敬紀 Takanori Terada
+
 
     </div>
