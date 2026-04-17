@@ -183,9 +183,9 @@ hide:
 
     </div>
 
-=== "過去 Alumni"
+=== "卒業生・修了生 Alumni"
 
-    ## 博士後期課程 PhD Students
+    博士後期課程 PhD Students
 
     <div class="grid" markdown>
 
@@ -194,7 +194,7 @@ hide:
 
     </div>
 
-    ## 博士前期課程 Masters Students
+    博士前期課程 Masters Students
     
     <div class="grid" markdown>
     !!! tip ""
@@ -205,13 +205,13 @@ hide:
 
     </div>
 
-    ## 研究生 Research Students
+    研究生 Research Students
 
     <div class="grid" markdown>
 
     </div>
 
-    ## 学群生 Bachelor Students
+    学群生 Bachelor Students
 
     <div class="grid" markdown>
 
