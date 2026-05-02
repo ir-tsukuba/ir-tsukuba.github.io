@@ -43,7 +43,7 @@ hide:
 
 !!! tip "Advancing Lifelog Analytics and Retrieval at NTCIR19 (Lifelog-7)"
     Lifelog-7 aiming to advance research in lifelog analytics and retrieval and it consists of multiple sub-tasks focusing on semantic access, knowledge mining, and question answering from lifelog and CASTLE data.  
-    Website: TBA
+    Website: [https://lifelog-ntcir-project-bd9eae.gitlab.io/](https://lifelog-ntcir-project-bd9eae.gitlab.io/)
 
 ## 終了プロジェクト Completed Projects
 
