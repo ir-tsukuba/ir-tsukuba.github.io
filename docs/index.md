@@ -12,7 +12,7 @@ hide:
 
 <div class="grid" markdown>
 
-!!! tip "バーベキュー IR Group BBQ"
+!!! tip "2026年度 情報検索グループ バーベキュー IR Group BBQ in 2026"
     ![](images/p4292221.jpg){ width="100%" }
     情報検索リサーチグループにて、恒例のBBQを行いました。IR Group at Tsukuba held its annual BBQ gathering.
 
