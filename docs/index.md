@@ -12,6 +12,12 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "バーベキュー IR Group BBQ"
+    ![](images/p4292221.jpg){ width="100%" }
+    情報検索リサーチグループにて、恒例のBBQを行いました。IR Group at Tsukuba held its annual BBQ gathering.
+
+    :calendar: 2026.4.29
+
 !!! tip "第4回研究セミナー開催 4th Research Seminar"
     ![](images/IMG_2625.png){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、筑波大学のファム・フーロン氏による「機械学習モデル検索」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Dr. Huu-Long Pham (University of Tsukuba), titled "Machine Learning Model Retrieval."
