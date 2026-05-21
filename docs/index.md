@@ -12,6 +12,12 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "第5回研究セミナー開催 5th Research Seminar"
+    ![](images/IMG_2739.JPG){ width="100%" }
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、筑波大学のBenjamin Clavié氏による「ColBERT and Late Interaction Retrieval: Why, How, and What Next?」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Benjamin Clavié (Mixedbread / National Institute of Informatics), titled "ColBERT and Late Interaction Retrieval: Why, How, and What Next?"
+
+    :calendar: 2026.5.21
+
 !!! tip "2026年度 情報検索グループ バーベキュー IR Group BBQ in 2026"
     ![](images/p4292221.jpg){ width="100%" }
     情報検索リサーチグループにて、恒例のBBQを行いました。IR Group at Tsukuba held its annual BBQ gathering.
