@@ -18,6 +18,8 @@ hide:
     - プロフィール Bio：Charles Clarke is a Professor of Computer Science at the University of Waterloo, Canada, and a Visiting Professor at the National Institute of Informatics, Japan. His research focuses on data intensive tasks and efficiency, including search, ranking, question answering, and other problems involving human language data. He has supervised to completion over 30 graduate students and published over 200 refereed contributions on a wide range of topics, including search, metrics, user interfaces, filesystem search, natural language processing, machine learning, and databases. He has worked on search engine technology for both Microsoft Bing and Facebook Search. Clarke is an ACM Distinguished Scientist and leading member of the search and information retrieval community, serving as the Chair of the Executive Committee for the ACM Special Interest Group from 2013 to 2016 and as the Co-Editor-in-Chief of the Information Retrieval Journal from 2010 to 2018.
 
 !!! example "リサーチセミナー Research Seminar #5 2026.05.20"
+    ![](images/IMG_2739.JPG){ align="right" width="40%" }
+
     - 日付 Date：2026.05.20
     - 発表者 Speaker：Benjamin Clavié (Mixedbread / National Institute of Informatics)
     - 題目 Title：ColBERT and Late Interaction Retrieval: Why, How, and What Next?
