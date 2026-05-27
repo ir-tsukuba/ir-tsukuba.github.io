@@ -12,6 +12,11 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "第7回研究セミナー開催 7th Research Seminar"
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、インド工科大学パトナ校のSarmistha Das氏による「Reasoning-Aware Multimodal NLP for Human-Centered FinTech and Cross-Cultural AI」の講演が行う予定です。IR Group at Tsukuba will host a [research seminar](seminars.md) featuring Sarmistha Das (Indian Institute of Technology Patna), titled "Reasoning-Aware Multimodal NLP for Human-Centered FinTech and Cross-Cultural AI".
+
+    :calendar: 2026.6.17
+
 !!! tip "第6回研究セミナー開催 6th Research Seminar"
     ![](images/Image5.jpg){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、Waterloo大学のCharles Clarke氏による「A Sequential Decision Framework for LLM-Guided Search」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Charles Clarke (University of Waterloo), titled "A Sequential Decision Framework for LLM-Guided Search"
