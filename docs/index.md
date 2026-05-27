@@ -12,6 +12,13 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "第6回研究セミナー開催 6th Research Seminar"
+    ![](images/Image5.jpg){ width="100%" }
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、Waterloo大学のCharles Clarke氏による「A Sequential Decision Framework for LLM-Guided Search」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Charles Clarke (University of Waterloo), titled "A Sequential Decision Framework for LLM-Guided Search"
+
+    :calendar: 2026.5.25
+
+
 !!! tip "第5回研究セミナー開催 5th Research Seminar"
     ![](images/IMG_2739.JPG){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、Mixedbread/国立情報学研究所のBenjamin Clavié氏による「ColBERT and Late Interaction Retrieval: Why, How, and What Next?」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Benjamin Clavié (Mixedbread / National Institute of Informatics), titled "ColBERT and Late Interaction Retrieval: Why, How, and What Next?"

@@ -11,6 +11,8 @@ hide:
 ## 2026年
 
 !!! example "リサーチセミナー Research Seminar #6 2026.05.25"
+    ![](images/Image5.jpg){ align="right" width="40%" }
+
     - 日付 Date：2026.05.25
     - 発表者 Speaker：Charles Clarke (University of Waterloo)
     - 題目 Title：A Sequential Decision Framework for LLM-Guided Search
