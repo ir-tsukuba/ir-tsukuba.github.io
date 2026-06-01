@@ -30,6 +30,11 @@ hide:
 ## 最新論文
 
 !!! abstract "国際会議論文 International Conference Paper"
+    Towards Adaptive and Retriever-friendly Retrieval-augmented Generation via Reinforcement Learning
+    Yubo Fang, Hai-Tao Yu, Hideo Joho, Sumio Fujita
+    ICTIR 2026: Proceedings of the 2026 ACM Conference on Innovative Concepts and Theories in Information Retrieval
+
+!!! abstract "国際会議論文 International Conference Paper"
     EasyRAG: A Beginner-friendly and Interactive Framework for Retrieval-Augmented Generation    
     Xuanchen Zhou, Haitao Yu, Kaipeng Li, Yubo Fang    
     SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
