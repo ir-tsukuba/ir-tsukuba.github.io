@@ -30,8 +30,8 @@ hide:
 ## 最新論文
 
 !!! abstract "国際会議論文 International Conference Paper"
-    Towards Adaptive and Retriever-friendly Retrieval-augmented Generation via Reinforcement Learning
-    Yubo Fang, Hai-Tao Yu, Hideo Joho, Sumio Fujita
+    Towards Adaptive and Retriever-friendly Retrieval-augmented Generation via Reinforcement Learning<br>
+    Yubo Fang, Hai-Tao Yu, Hideo Joho, Sumio Fujita<br>
     ICTIR 2026: Proceedings of the 2026 ACM Conference on Innovative Concepts and Theories in Information Retrieval
 
 !!! abstract "国際会議論文 International Conference Paper"
