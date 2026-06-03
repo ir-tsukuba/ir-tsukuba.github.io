@@ -5,8 +5,8 @@ hide:
 ---
 
 !!! info "ようこそ！ Welcome!"
-    筑波大学情報検索グループは、現在５つの研究室が連携し、アルゴリズムからユーザまで多角的に情報検索研究を展開しています。  
-    The Information Retrieval Group at the University of Tsukuba is a collaboration of five labs, advancing IR research from algorithms to users.
+    筑波大学情報検索グループは、現在４つの研究室が連携し、アルゴリズムからユーザまで多角的に情報検索研究を展開しています。  
+    The Information Retrieval Group at the University of Tsukuba is a collaboration of four labs, advancing IR research from algorithms to users.
 
 ## 最新情報 Latest Information
 
@@ -123,8 +123,8 @@ hide:
 
     :link: 研究室ホームページ Lab Website: [https://ii-research.github.io/](https://ii-research.github.io/)
 
-!!! note "加藤誠研究室 Knowledge Acquisition System Lab"
-    加藤研究室（KASYS）では、大規模言語モデルや機械学習に基づく情報検索アルゴリズムの研究に取り組んでいます．At the Kato Lab (KASYS), we study information retrieval algorithms based on large language models and machine learning. 
+!!! note "加藤・ファム研究室 Knowledge Acquisition System Lab"
+    加藤・ファム研究室（KASYS）では、大規模言語モデルや機械学習に基づく情報検索アルゴリズムの研究に取り組んでいます．At the Kato Lab (KASYS), we study information retrieval algorithms based on large language models and machine learning. 
 
     キーワード： 情報検索アルゴリズム，大規模言語モデル，機械学習
     Keywords: Information Retrieval algorithms, Large Language Models, Machine Learning

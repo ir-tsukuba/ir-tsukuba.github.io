@@ -32,8 +32,8 @@ hide:
 
     :link: 研究室ホームページ Lab Website: [https://ii-research.github.io/](https://ii-research.github.io/)
 
-!!! note "加藤誠研究室 Knowledge Acquisition System Lab"
-    加藤研究室（KASYS）では、大規模言語モデルや機械学習に基づく情報検索アルゴリズムの研究に取り組んでいます．At the Kato Lab (KASYS), we study information retrieval algorithms based on large language models and machine learning. 
+!!! note "加藤・ファム研究室 Knowledge Acquisition System Lab"
+    加藤・ファム研究室（KASYS）では、大規模言語モデルや機械学習に基づく情報検索アルゴリズムの研究に取り組んでいます．At the Kato Lab (KASYS), we study information retrieval algorithms based on large language models and machine learning. 
 
     キーワード： 情報検索アルゴリズム，大規模言語モデル，機械学習
     Keywords: Information Retrieval algorithms, Large Language Models, Machine Learning
