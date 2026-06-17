@@ -11,6 +11,7 @@ hide:
 ## 2026年
 
 !!! example "リサーチセミナー Research Seminar #7 2026.06.17"
+    ![](images/Image6.jpg){ align="right" width="40%" }
 
     - 日付 Date：2026.06.17
     - 発表者 Speaker：Sarmistha Das (Indian Institute of Technology Patna)

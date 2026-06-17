@@ -12,6 +12,14 @@ hide:
 
 <div class="grid" markdown>
 
+
+!!! tip "第7回研究セミナー開催 7th Research Seminar"
+    ![](images/Image6.jpg){ width="100%" }
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、Indian Institute of Technology PatnaのSarmistha Das氏による「Reasoning-Aware Multimodal NLP for Human-Centered FinTech and Cross-Cultural AI」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Sarmistha Das (Indian Institute of Technology Patna), titled "Reasoning-Aware Multimodal NLP for Human-Centered FinTech and Cross-Cultural AI"
+
+    :calendar: 2026.6.17
+
+
 !!! tip "ICTIR 2026に1本の論文が採択 One paper accepted at ICTIR 2026"
     2026年7月にオーストラリア・メルボルンで開催される[ICTIR 2026](https://sigir2026.org/)に情報検索リサーチグループから[1本の論文が採択](publications.md)されました！ [One paper](publications.md) from the Information Retrieval Research Group have been accepted to [ICTIR 2026](https://sigir2026.org/), which will be held in Melbourne, Australia in July 2026!
 
