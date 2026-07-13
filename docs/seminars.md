@@ -10,6 +10,17 @@ hide:
 
 ## 2026年
 
+!!! example "リサーチセミナー Research Seminar #8 SIGIR/ICTIR 2026 Special 2026.07.15"
+
+    - 日付 Date：2026.07.15
+    - 特別セッション Special Session：IRグループから[SIGIR 2026](https://sigir2026.org/)および[ICTIR 2026](https://sigir-ictir.github.io/ictir2026/)で発表するメンバーのリハーサルを実施します。 We will conduct rehearsal sessions for IR Group members presenting at SIGIR 2026 and ICTIR 2026.
+    ---
+    - [NumColBERT: Non-Intrusive Numeracy Injection for Late-Interaction Retrieval Models](https://dl.acm.org/doi/10.1145/3805712.3809688). Haruki Fujimaki, Makoto P. Kato. SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+    - [H-MAPS: Hierarchical Memory-Augmented Proactive Search Assistant for Scientific Literature](https://dl.acm.org/doi/10.1145/3805712.3808378). Koji Nishikawa, Makoto P. Kato. SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+    - [EasyRAG: A Beginner-friendly and Interactive Framework for Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3805712.3808385). Xuanchen Zhou, Haitao Yu, Kaipeng Li, Yubo Fang. SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+    - Towards Adaptive and Retriever-friendly Retrieval-augmented Generation via Reinforcement Learning. Yubo Fang, Hai-Tao Yu, Hideo Joho, Sumio Fujita. ICTIR 2026: Proceedings of the 2026 ACM Conference on Innovative Concepts and Theories in Information Retrieval
+
+
 !!! example "リサーチセミナー Research Seminar #7 2026.06.17"
     ![](images/Image6.jpg){ align="right" width="40%" }
 
