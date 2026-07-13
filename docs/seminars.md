@@ -10,7 +10,7 @@ hide:
 
 ## 2026年
 
-!!! example "リサーチセミナー Research Seminar #8 SIGIR/ICTIR 2026 Special 2026.07.15"
+!!! example "リサーチセミナー Research Seminar #8 2026.07.15 &lt;SIGIR/ICTIR 2026 特別セッション Special Session&gt;"
 
     - 日付 Date：2026.07.15
     - 特別セッション Special Session：IRグループから[SIGIR 2026](https://sigir2026.org/)および[ICTIR 2026](https://sigir-ictir.github.io/ictir2026/)で発表するメンバーのリハーサルを実施します。 We will conduct rehearsal sessions for IR Group members presenting at SIGIR 2026 and ICTIR 2026.
