@@ -12,8 +12,10 @@ hide:
 
 !!! example "リサーチセミナー Research Seminar #8 2026.07.15 &lt;SIGIR/ICTIR 2026 特別セッション Special Session&gt;"
 
+    ![](images/seminar8.png){ align="right" width="40%" }
+
     - 日付 Date：2026.07.15
-    - 特別セッション Special Session：IRグループから[SIGIR 2026](https://sigir2026.org/)および[ICTIR 2026](https://sigir-ictir.github.io/ictir2026/)で発表するメンバーのリハーサルを実施します。 We will conduct rehearsal sessions for IR Group members presenting at SIGIR 2026 and ICTIR 2026.
+    - 特別セッション Special Session：IRグループから[SIGIR 2026](https://sigir2026.org/)および[ICTIR 2026](https://sigir-ictir.github.io/ictir2026/)で発表するメンバーのリハーサルを実施します。 We will conduct rehearsal sessions for IR Group members presenting at [SIGIR 2026](https://sigir2026.org/) and [ICTIR 2026](https://sigir-ictir.github.io/ictir2026/).
     ---
     - [NumColBERT: Non-Intrusive Numeracy Injection for Late-Interaction Retrieval Models](https://dl.acm.org/doi/10.1145/3805712.3809688). Haruki Fujimaki, Makoto P. Kato. SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
     - [H-MAPS: Hierarchical Memory-Augmented Proactive Search Assistant for Scientific Literature](https://dl.acm.org/doi/10.1145/3805712.3808378). Koji Nishikawa, Makoto P. Kato. SIGIR 2026: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
