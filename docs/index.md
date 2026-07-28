@@ -12,11 +12,18 @@ hide:
 
 <div class="grid" markdown>
 
-!!! tip "SIGIR 2026/ICTIR 2026 発表論文 Presentations"
+!!! tip "SIGIR 2026/ICTIR 2026に参加 SIGIR 2026/ICTIR 2026 Participation"
+    ![](images/DSC00588.png){ width="100%" }
+    2026年7月にオーストラリア・メルボルンで開催された[SIGIR 2026](https://sigir2026.org/)および[ICTIR 2026](https://sigir-ictir.github.io/ictir2026/)に情報検索リサーチグループから6名が参加しました！ Six members of the Information Retrieval Research Group participated in [SIGIR 2026](https://sigir2026.org/) and [ICTIR 2026](https://sigir-ictir.github.io/ictir2026/), held in Melbourne, Australia in July 2026!
+
+    :calendar: 2026.07.20-25
+
+
+!!! tip "SIGIR 2026/ICTIR 2026 発表論文 SIGIR 2026/ICTIR 2026 Presentations"
     ![](images/ir-tsukuba-sigir2026.png){ width="100%" }
     情報検索リサーチグループメンバーは、2026年7月にオーストラリア・メルボルンで開催される[SIGIR 2026](https://sigir2026.org/)および[ICTIR 2026](https://sigir-ictir.github.io/ictir2026/)で計４本の研究発表を行います。Members of the Information Retrieval Group at Tsukuba will be presenting four papers at [SIGIR 2026](https://sigir2026.org/) and [ICTIR 2026](https://sigir-ictir.github.io/ictir2026/) which will be held in Melbourne, Australia in July 2026.
 
-    :calendar: 2026.7.21-25
+    :calendar: 2026.7.20-25
 
 
 !!! tip "第8回研究セミナー開催 8th Research Seminar"
