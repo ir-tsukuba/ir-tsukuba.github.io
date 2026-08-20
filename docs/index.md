@@ -19,7 +19,7 @@ hide:
     :calendar: 2026.8.18
 
 
-!!! tip "CIKM 2026にResource Paperが採択 Resource paper accepted at CIKM 2026" { width="100%" } 
+!!! tip "CIKM 2026にResource Paperが採択 Resource paper accepted at CIKM 2026"
     2026年11月にイタリア・ローマで開催される[CIKM 2026](https://cikm2026.diag.uniroma1.it/)に、情報検索リサーチグループからResource Paper「[ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval](https://github.com/kasys-lab/ReCaRe)」が採択されました！ A resource paper, "[ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval](https://github.com/kasys-lab/ReCaRe)," from the Information Retrieval Research Group has been accepted to CIKM 2026, which will be held in Rome, Italy in November 2026.
 
     :calendar: 2026.8.8
