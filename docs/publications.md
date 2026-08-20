@@ -30,7 +30,7 @@ hide:
 ## 最新論文
 
 !!! abstract "国際会議論文 International Conference Paper"
-    ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval<br>
+    ReCaRe: A Bilingual Benchmark for Revision Candidate Retrieval in Evolving Legal Corpora<br>
     Takumi Ito, Yuma Kurokawa, Makoto P. Kato, Sumio Fujita<br>
     CIKM 2026: Proceedings of the 35th ACM International Conference on Information and Knowledge Management
 
