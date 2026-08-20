@@ -12,7 +12,8 @@ hide:
 
 <div class="grid" markdown>
 
-!!! tip "SPReADに研究課題が採択 Research project selected for SPReAD" { width="100%" } 
+
+!!! tip "SPReADに研究課題が採択 Research project selected for SPReAD"
     文部科学省の[AI for Science萌芽的挑戦研究創出事業（SPReAD）](https://www.mext.go.jp/aifors_spread/)第2回公募に、情報検索リサーチグループの研究課題『「目標性質を実現する設計条件を探す」逆設計問題のためのエージェント検索モデルの構築』が採択されました！ A research project from the Information Retrieval Research Group has been selected in the second call of MEXT's AI for Science program SPReAD!
 
     :calendar: 2026.8.18
