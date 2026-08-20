@@ -12,13 +12,15 @@ hide:
 
 <div class="grid" markdown>
 
-!!! tip "SPReADに研究課題が採択 Research project selected for SPReAD" { width="100%" } 文部科学省の[AI for Science萌芽的挑戦研究創出事業（SPReAD）](https://www.mext.go.jp/aifors_spread/)第2回公募に、情報検索リサーチグループの研究課題『「目標性質を実現する設計条件を探す」逆設計問題のためのエージェント検索モデルの構築』が採択されました！ A research project from the Information Retrieval Research Group has been selected in the second call of MEXT's AI for Science program SPReAD!
+!!! tip "SPReADに研究課題が採択 Research project selected for SPReAD" { width="100%" } 
+    文部科学省の[AI for Science萌芽的挑戦研究創出事業（SPReAD）](https://www.mext.go.jp/aifors_spread/)第2回公募に、情報検索リサーチグループの研究課題『「目標性質を実現する設計条件を探す」逆設計問題のためのエージェント検索モデルの構築』が採択されました！ A research project from the Information Retrieval Research Group has been selected in the second call of MEXT's AI for Science program SPReAD!
 
-    \:calendar: 2026.8.18
+    :calendar: 2026.8.18
 
-!!! tip "CIKM 2026にResource Paperが採択 Resource paper accepted at CIKM 2026" { width="100%" } 2026年11月にイタリア・ローマで開催される[CIKM 2026](https://cikm2026.diag.uniroma1.it/)に、情報検索リサーチグループからResource Paper「[ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval](https://github.com/kasys-lab/ReCaRe)」が採択されました！ A resource paper, "[ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval](https://github.com/kasys-lab/ReCaRe)," from the Information Retrieval Research Group has been accepted to CIKM 2026, which will be held in Rome, Italy in November 2026.
+!!! tip "CIKM 2026にResource Paperが採択 Resource paper accepted at CIKM 2026" { width="100%" } 
+    2026年11月にイタリア・ローマで開催される[CIKM 2026](https://cikm2026.diag.uniroma1.it/)に、情報検索リサーチグループからResource Paper「[ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval](https://github.com/kasys-lab/ReCaRe)」が採択されました！ A resource paper, "[ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval](https://github.com/kasys-lab/ReCaRe)," from the Information Retrieval Research Group has been accepted to CIKM 2026, which will be held in Rome, Italy in November 2026.
 
-    \:calendar: 2026.8.8
+    :calendar: 2026.8.8
 
 !!! tip "SIGIR 2026/ICTIR 2026に参加 SIGIR 2026/ICTIR 2026 Participation"
     ![](images/DSC00588.png){ width="100%" }
