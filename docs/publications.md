@@ -30,6 +30,11 @@ hide:
 ## 最新論文
 
 !!! abstract "国際会議論文 International Conference Paper"
+    ReCaRe: A Bilingual Legal Benchmark for Revision Candidate Retrieval<br>
+    Takumi Ito, Yuma Kurokawa, Makoto P. Kato, Sumio Fujita<br>
+    CIKM 2026: Proceedings of the 35th ACM International Conference on Information and Knowledge Management
+
+!!! abstract "国際会議論文 International Conference Paper"
     Towards Adaptive and Retriever-friendly Retrieval-augmented Generation via Reinforcement Learning<br>
     Yubo Fang, Hai-Tao Yu, Hideo Joho, Sumio Fujita<br>
     ICTIR 2026: Proceedings of the 2026 ACM Conference on Innovative Concepts and Theories in Information Retrieval
