@@ -10,6 +10,15 @@ hide:
 
 ## 2026年
 
+!!! example "リサーチセミナー Research Seminar #9 2026.09.16"
+    ![](images/Image6.jpg){ align="right" width="40%" }
+
+    - 日付 Date：2026.09.16
+    - 発表者 Speaker：Jiaying Wu (National University of Singapore, Singapore)
+    - 題目 Title：What Should AI Understand About Us? Social Intelligence for Trustworthy Information Ecosystems
+    - 要旨 Abstract：AI systems increasingly mediate how people access, interpret, and act on information. Search engines synthesize evidence, assistants summarize complex issues, and AI agents exchange information on our behalf. This creates a subtle challenge: an AI system can be factually correct and still leave people with the wrong understanding. A technically accurate summary may omit decisive context; a persuasive message may exploit how people interpret evidence; a seemingly productive discussion may converge while important facts quietly disappear. This talk argues that trustworthy information systems therefore require social intelligence: the ability to reason about how communication shapes interpretation and judgment. I will present our recent work on understanding misleading communicative intent, detecting when missing context changes the meaning people take away, generating evidence-grounded corrective information, and tracing what happens to facts and viewpoints during multi-agent deliberation. These studies move the question of trustworthiness beyond whether an individual statement is true toward whether an information process preserves what people need to make a sound decision. I will conclude with implications for AI-mediated information systems. As AI increasingly decides what information to retrieve, compress, emphasize, and communicate, a central design goal should be to preserve the evidence, context, and legitimate differences in perspective that informed judgment depends on.
+    - プロフィール Bio：Jiaying Wu is a Postdoctoral Research Fellow at National University of Singapore (NUS), affiliated with NUS Web IR / NLP Group (WING) and NUS Centre for Trusted Internet and Community (CTIC). Her research focuses on socially intelligent AI agents and trustworthy information ecosystems, with a broader goal of developing AI systems that can reason about people, information, and social interaction to support reliable and adaptive decision-making. She has authored over 20 publications at leading AI and NLP venues, including NeurIPS, ICLR, ACL, and KDD, and received her Ph.D. in Computer Science from NUS in 2024.
+
 !!! example "リサーチセミナー Research Seminar #8 2026.07.15 &lt;SIGIR/ICTIR 2026 特別セッション Special Session&gt;"
 
     ![](images/seminar8.png){ align="right" width="40%" }
