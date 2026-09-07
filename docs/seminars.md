@@ -11,7 +11,6 @@ hide:
 ## 2026年
 
 !!! example "リサーチセミナー Research Seminar #9 2026.09.16"
-    ![](images/Image6.jpg){ align="right" width="40%" }
 
     - 日付 Date：2026.09.16
     - 発表者 Speaker：Jiaying Wu (National University of Singapore, Singapore)
