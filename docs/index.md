@@ -12,6 +12,16 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "IP&M誌に研究論文採録 Research paper accepted to IP&M"
+    国際論文誌Information Processing & Management（IF: 8.1）に情報検索リサーチグループから研究論文「Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts」が採録されました！ A research paper "Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts" from the Information Retrieval Research Group has been accepted to an international journal, Information Processing & Management (IF: 8.1)!
+
+    :calendar: 2026.9.16
+
+!!! tip "Information Sciences誌に研究論文採録 Research paper accepted to Information Sciences"
+    国際論文誌Information Sciences（IF: 6.0）に情報検索リサーチグループから研究論文「An empirical study of retrieval-augmented diffusion language models for generative commonsense reasoning」が採録されました！ A research paper "An empirical study of retrieval-augmented diffusion language models for generative commonsense reasoning" from the Information Retrieval Research Group has been accepted to an international journal, Information Sciences (IF: 6.0)!
+
+    :calendar: 2026.9.11
+
 
 !!! tip "SPReADに研究課題が採択 Research project selected for SPReAD"
     文部科学省の[AI for Science萌芽的挑戦研究創出事業（SPReAD）](https://www.mext.go.jp/aifors_spread/)第2回公募に、情報検索リサーチグループの研究課題『「目標性質を実現する設計条件を探す」逆設計問題のためのエージェント検索モデルの構築』が採択されました！ A research project from the Information Retrieval Research Group has been selected in the second call of MEXT's AI for Science program SPReAD!
@@ -24,12 +34,16 @@ hide:
 
     :calendar: 2026.8.8
 
+!!! tip "Information Fusion誌に研究論文採録 Research paper accepted to Information Fusion"
+    国際論文誌Information Fusion（IF: 17.4）に情報検索リサーチグループから研究論文「Neuro-symbolic information fusion for explainable retrieval-augmented generation in mental health applications: A survey and challenges」が採録されました！ A research paper "Neuro-symbolic information fusion for explainable retrieval-augmented generation in mental health applications: A survey and challenges" from the Information Retrieval Research Group has been accepted to an international journal, Information Fusion (IF: 17.4)!
+
+    :calendar: 2026.8.1
 
 !!! tip "SIGIR 2026/ICTIR 2026に参加 SIGIR 2026/ICTIR 2026 Participation"
     ![](images/DSC00588.png){ width="100%" }
     2026年7月にオーストラリア・メルボルンで開催された[SIGIR 2026](https://sigir2026.org/)および[ICTIR 2026](https://sigir-ictir.github.io/ictir2026/)に情報検索リサーチグループから6名が参加しました！ Six members of the Information Retrieval Research Group participated in [SIGIR 2026](https://sigir2026.org/) and [ICTIR 2026](https://sigir-ictir.github.io/ictir2026/), held in Melbourne, Australia in July 2026!
 
-    :calendar: 2026.07.20-25
+    :calendar: 2026.7.20-25
 
 
 !!! tip "SIGIR 2026/ICTIR 2026 発表論文 SIGIR 2026/ICTIR 2026 Presentations"
@@ -70,6 +84,11 @@ hide:
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、Mixedbread/国立情報学研究所のBenjamin Clavié氏による「ColBERT and Late Interaction Retrieval: Why, How, and What Next?」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Benjamin Clavié (Mixedbread / National Institute of Informatics), titled "ColBERT and Late Interaction Retrieval: Why, How, and What Next?"
 
     :calendar: 2026.5.21
+
+!!! tip "IP&M誌に研究論文採録 Research paper accepted to IP&M"
+    国際論文誌Information Processing & Management（IF: 8.1）に情報検索リサーチグループから研究論文「Multi-dimensional hierarchical temporal alignment for improved temporal commonsense reasoning in large language models」が採録されました！ A research paper "Multi-dimensional hierarchical temporal alignment for improved temporal commonsense reasoning in large language models" from the Information Retrieval Research Group has been accepted to an international journal, Information Processing & Management (IF: 8.1)!
+
+    :calendar: 2026.5.2
 
 !!! tip "2026年度 情報検索グループ バーベキュー IR Group BBQ in 2026"
     ![](images/p4292221.jpg){ width="100%" }
