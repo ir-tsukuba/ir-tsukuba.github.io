@@ -29,6 +29,26 @@ hide:
 
 ## 最新論文
 
+!!! abstract "国際論文誌論文 International Journal Paper"
+    Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts  
+    Yao Wang, Xin Liu, Zhuochen Liu, Jiankang Chen, Adam Jatowt, Kyoungsook Kim, Noriko Kando, Hai-Tao Yu    
+    Information Processing & Management 64 (2), 105144
+
+!!! abstract "国際論文誌論文 International Journal Paper"
+    Multi-dimensional hierarchical temporal alignment for improved temporal commonsense reasoning in large language models  
+    Yan Ge, Hai-Tao Yu, Chao Lei  
+    Information Processing & Management 63 (7), 104875
+
+!!! abstract "国際論文誌論文 International Journal Paper"
+    An empirical study of retrieval-augmented diffusion language models for generative commonsense reasoning  
+    Yubo Fang, Hai-Tao Yu, Hideo Joho, Sumio Fujita, Yan Ge, Chao Lei  
+    Information Sciences, 124147
+
+!!! abstract "国際論文誌論文 International Journal Paper"
+    Neuro-symbolic information fusion for explainable retrieval-augmented generation in mental health applications: A survey and challenges  
+    Xin Kang, Weiping Ding, Kazuyuki Matsumoto, Linhuang Wang, Hai-Tao Yu, Xuefeng Shi  
+    Information Fusion, 104702
+
 !!! abstract "国際会議論文 International Conference Paper"
     ReCaRe: A Bilingual Benchmark for Revision Candidate Retrieval in Evolving Legal Corpora<br>
     Takumi Ito, Yuma Kurokawa, Makoto P. Kato, Sumio Fujita<br>
