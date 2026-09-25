@@ -13,8 +13,9 @@ hide:
 !!! note "于海涛研究室 Information Intelligence Lab"
     :link: [TRIOS](https://trios.tsukuba.ac.jp/researcher/0000003668) :link: [Researchmap](https://researchmap.jp/haitao/published_papers) :link: [Google Scholar](https://scholar.google.com/citations?user=88b2NRsAAAAJ) :link: [DBLP](https://dblp.org/pid/75/6588-3.html)
 
-!!! note "加藤誠研究室 Knowledge Acquisition System Lab"
-    :link: [TRIOS](https://trios.tsukuba.ac.jp/researcher/0000004282) :link: [Researchmap](https://researchmap.jp/mpkato/published_papers) :link: [Google Scholar](https://scholar.google.com/citations?user=Gr2Q2dQAAAAJ) :link: [DBLP](https://dblp.org/pid/14/7537.html)
+!!! note "加藤・ファム研究室 Knowledge Acquisition System Lab"
+    加藤 誠 Makoto P. Kato　:link: [TRIOS](https://trios.tsukuba.ac.jp/researcher/0000004282) :link: [Researchmap](https://researchmap.jp/mpkato/published_papers) :link: [Google Scholar](https://scholar.google.com/citations?user=Gr2Q2dQAAAAJ) :link: [DBLP](https://dblp.org/pid/14/7537.html)  
+    ファム フーロン Huu Long Pham　:link: [TRIOS](https://trios.tsukuba.ac.jp/researcher/0000005264) :link: [Researchmap](https://researchmap.jp/huulongpham/published_papers) :link: Google Scholar :link: [DBLP](https://dblp.org/pid/292/8665.html)
 
 </div>
 <div class="grid" markdown>
