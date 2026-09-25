@@ -12,6 +12,12 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "SIGIR-AP 2026にフルペーパーが採択 Full paper accepted at SIGIR-AP 2026"
+    2026年12月にシンガポールで開催される[SIGIR-AP 2026](https://www.sigir-ap.org/sigir-ap-2026/)に、情報検索リサーチグループから[フルペーパー](publications.md)が採択されました！ A [full paper](publications.md) from the Information Retrieval Research Group has been accepted to [SIGIR-AP 2026](https://www.sigir-ap.org/sigir-ap-2026/), which will be held in Singapore in December 2026.
+
+    :calendar: 2026.9.21
+
+
 !!! tip "IP&M誌に研究論文採録 Research paper accepted to IP&M"
     国際論文誌Information Processing & Management（IF: 8.1）に情報検索リサーチグループから研究論文「Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts」が採録されました！ A research paper "Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts" from the Information Retrieval Research Group has been accepted to an international journal, Information Processing & Management (IF: 8.1)!
 

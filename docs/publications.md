@@ -29,6 +29,12 @@ hide:
 
 ## 最新論文
 
+!!! abstract "国際会議論文 International Conference Paper"
+    Understanding LLM Search Behaviour in Product Search: A Controlled Multidimensional Analysis  
+    Hideo Joho  
+    SIGIR-AP 2026: Proceedings of the 4th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, Dec, 2026
+
+
 !!! abstract "国際論文誌論文 International Journal Paper"
     Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts  
     Yao Wang, Xin Liu, Zhuochen Liu, Jiankang Chen, Adam Jatowt, Kyoungsook Kim, Noriko Kando, Hai-Tao Yu    
