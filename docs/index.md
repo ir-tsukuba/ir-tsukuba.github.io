@@ -12,6 +12,15 @@ hide:
 
 <div class="grid" markdown>
 
+
+!!! tip "秋季卒業式・修了式 2026 Fall Graduation 2026"
+    ![](images/Image_20260930112206_33_112.jpg){ width="100%" }
+    ご卒業、修了おめでとうございます！今後のご活躍を心よりお祈りしています。
+    A big congratulations to all IR Group members who graduated this September! Wishing each of you continued growth, success, and meaningful adventures ahead.
+
+    :calendar: 2026.9.25
+
+
 !!! tip "SIGIR-AP 2026にフルペーパーが採択 Full paper accepted at SIGIR-AP 2026"
     2026年12月にシンガポールで開催される[SIGIR-AP 2026](https://www.sigir-ap.org/sigir-ap-2026/)に、情報検索リサーチグループから[フルペーパー](publications.md)が採択されました！ A [full paper](publications.md) from the Information Retrieval Research Group has been accepted to [SIGIR-AP 2026](https://www.sigir-ap.org/sigir-ap-2026/), which will be held in Singapore in December 2026.
 
