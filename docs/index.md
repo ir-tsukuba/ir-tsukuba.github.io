@@ -12,6 +12,11 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "LOTUSプログラムに4件が採択 4 projects accepted to LOTUS Program"
+    2026年度[LOTUSプログラム](https://www.jst.go.jp/program/india/)に、情報検索リサーチグループから4件のプロジェクトが[採択](https://www.jst.go.jp/pr/info/info1880/index.html)されました！ Four projects have been [accepted](https://www.jst.go.jp/program/india/en/project/2026.html) to the [LOTUS Program](https://www.jst.go.jp/program/india/en/) 2026 from the Information Retrieval Research Group!
+
+    :calendar: 2026.10.15
+
 
 !!! tip "秋季卒業式・修了式 2026 Fall Graduation 2026"
     ![](images/Image_20260930112206_33_112.jpg){ width="100%" }
