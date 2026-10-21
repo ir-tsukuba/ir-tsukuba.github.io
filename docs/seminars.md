@@ -22,6 +22,8 @@ hide:
 
 !!! example "リサーチセミナー Research Seminar #9 2026.09.16"
 
+    ![](images/seminar9.png){ align="right" width="40%" }
+
     - 日付 Date：2026.09.16
     - 発表者 Speaker：Jiaying Wu (National University of Singapore, Singapore)
     - 題目 Title：What Should AI Understand About Us? Social Intelligence for Trustworthy Information Ecosystems
