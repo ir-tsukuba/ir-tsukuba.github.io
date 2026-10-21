@@ -11,6 +11,9 @@ hide:
 ## 2026年
 
 !!! example "リサーチセミナー Research Seminar #10 2026.10.21"
+
+    ![](images/ir_seminar_10.jpg){ align="right" width="40%" }
+
     - 日付 Date：2026.10.21
     - 発表者 Speaker：Rahmi (Universitas Indonesia, Indonesia)
     - 題目 Title：Gen Z Searches: A Millennial Takes Notes

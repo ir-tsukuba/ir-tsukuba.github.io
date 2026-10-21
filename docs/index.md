@@ -12,6 +12,12 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "第10回研究セミナー開催 10th Research Seminar"
+    ![](images/ir_seminar_10.jpg){ width="100%" }
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、インドネシア大学のRahmi氏による「Gen Z Searches: A Millennial Takes Notes」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Rahmi (University of Indonesia), titled "Gen Z Searches: A Millennial Takes Notes."
+
+    :calendar: 2026.10.21
+
 !!! tip "LOTUSプログラムに4件が採択 4 projects accepted to LOTUS Program"
     2026年度[LOTUSプログラム](https://www.jst.go.jp/program/india/)に、情報検索リサーチグループから4件のプロジェクトが[採択](https://www.jst.go.jp/pr/info/info1880/index.html)されました！ Four projects have been [accepted](https://www.jst.go.jp/program/india/en/project/2026.html) to the [LOTUS Program](https://www.jst.go.jp/program/india/en/) 2026 from the Information Retrieval Research Group!
 
@@ -31,6 +37,12 @@ hide:
 
     :calendar: 2026.9.21
 
+
+!!! tip "第9回研究セミナー開催 9th Research Seminar"
+    ![](images/seminar9.png){ width="100%" }
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、シンガポール国立大学のJiaying Wu氏による「What Should AI Understand About Us? Social Intelligence for Trustworthy Information Ecosystems」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Jiaying Wu (National University of Singapore), titled "What Should AI Understand About Us? Social Intelligence for Trustworthy Information Ecosystems."
+
+    :calendar: 2026.9.16
 
 !!! tip "IP&M誌に研究論文採録 Research paper accepted to IP&M"
     国際論文誌Information Processing & Management（IF: 8.1）に情報検索リサーチグループから研究論文「Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts」が採録されました！ A research paper "Event-centric human value understanding in news-domain texts: An actor-conditioned benchmark across multi-scope event contexts" from the Information Retrieval Research Group has been accepted to an international journal, Information Processing & Management (IF: 8.1)!
