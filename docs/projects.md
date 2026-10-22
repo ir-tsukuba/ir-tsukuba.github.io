@@ -45,6 +45,19 @@ hide:
     Lifelog-7 aiming to advance research in lifelog analytics and retrieval and it consists of multiple sub-tasks focusing on semantic access, knowledge mining, and question answering from lifelog and CASTLE data.  
     Website: [https://lifelog-ntcir-project-bd9eae.gitlab.io/](https://lifelog-ntcir-project-bd9eae.gitlab.io/)
 
+### LOTUS プロジェクト
+
+!!! tip "2026年度 FY2026"
+    - Audience-Aware Multimodal AI for Creative Workflows: From Benchmarks to Collaborative Agents
+    - Temporal Knowledge Graph-Based Memory Orchestration and RAG for Enhanced Information Retrieval
+    - A Vision-Language Agentic Framework for Misconception and Intent-Divergence Diagnosis in Task-Oriented Search
+    - Building a Search Agent for Cross-Language Spoken Information Retrieval
+
+!!! tip "2025年度 FY2025"
+    - 専門家混合と検索拡張型反論生成を統合したマルチエージェント討論フレームワークに基づくマルチモーダル誤情報の低減（インド工科大学パトナ校　Saha Sriparna）A Multi-Agent Debate Framework with Mixture-of-Experts and Retrieval-Augmented Counter Generation for Multimodal Misinformation Mitigation (Saha Sriparna, Indian Institute of Technology Patna)
+
+    Website: [https://www.jst.go.jp/program/india/project/2025.html](https://www.jst.go.jp/program/india/project/2025.html)
+
 ## 終了プロジェクト Completed Projects
 
 !!! tip "ユーザの時間選好を考慮した健康行動変容のためのメッセージ提示戦略モデルの構築"

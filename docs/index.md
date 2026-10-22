@@ -21,6 +21,8 @@ hide:
 !!! tip "LOTUSプログラムに4件が採択 4 projects accepted to LOTUS Program"
     2026年度[LOTUSプログラム](https://www.jst.go.jp/program/india/)に、情報検索リサーチグループから4件のプロジェクトが[採択](https://www.jst.go.jp/pr/info/info1880/index.html)されました！ Four projects have been [accepted](https://www.jst.go.jp/program/india/en/project/2026.html) to the [LOTUS Program](https://www.jst.go.jp/program/india/en/) 2026 from the Information Retrieval Research Group!
 
+    :point_right: [研究プロジェクト一覧](projects.md) [List of research projects](projects.md)
+
     :calendar: 2026.10.15
 
 
