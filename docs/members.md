@@ -108,7 +108,7 @@ hide:
         :fontawesome-solid-user: テイ エキセイ Yicheng Ding
 
     !!! tip ""
-        :fontawesome-solid-user: 徐 美珍 Meizhen Xu
+        :fontawesome-solid-user: 徐 美珍 Mijin Seo
 
     !!! tip ""
         :fontawesome-solid-user: 黒川 悠馬 Yuma Kurokawa
