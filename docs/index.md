@@ -25,7 +25,15 @@ hide:
 
     :calendar: 2026.10.15
 
+!!! tip "リサーチグループ発足１周年 1st Anniversary of IR Group"
+    ![](images/1st.png){ width="100%"}
+    筑波大学 情報検索リサーチグループは、2026年10月1日に発足1周年を迎えました。
+    皆さまのご支援に心より感謝申し上げます。
+    The Information Retrieval Research Group at the University of Tsukuba turned one on 1 October 2026.
+    Thank you to everyone who has searched, connected and created with us this past year.
 
+    :calendar: 2026.10.1
+    
 !!! tip "秋季卒業式・修了式 2026 Fall Graduation 2026"
     ![](images/Image_20260930112206_33_112.jpg){ width="100%" }
     ご卒業、修了おめでとうございます！今後のご活躍を心よりお祈りしています。
