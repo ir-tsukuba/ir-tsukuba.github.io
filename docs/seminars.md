@@ -10,6 +10,13 @@ hide:
 
 ## 2026年
 
+!!! example "リサーチセミナー Research Seminar #11 2026.11.18"
+    - 日付 Date：2026.11.18
+    - 発表者 Speaker：Yashar Moshfeghi (University of Strathclyde, UK)
+    - 題目 Title：Bridging Minds and Machines: Towards Human-Centred and Cognitively Aware AI
+    - 要旨 Abstract：How can we build AI systems that better understand people while remaining trustworthy, responsible and effective? This talk introduces research from the NeuraSearch Laboratory at the intersection of AI, neuroscience, information retrieval and human-AI interaction. I will discuss our work on the neural processes underlying information seeking and predicting the emergence of information needs. I will then explore applications beyond search, including the use of neurophysiological signals to understand human performance in aviation, and PRISM, our work on auditing the behaviour and biases of large language models. Together, these projects explore how AI can respond to human cognition and behaviour, and how we can better understand and evaluate AI itself. I will conclude with open challenges for developing cognitively aware, proactive and responsible human-AI systems.
+    - プロフィール Bio：Yashar Moshfeghi is Professor of Artificial Intelligence at the University of Strathclyde, where he founded and directs the NeuraSearch Laboratory and serves as a Principal Investigator at the Strathclyde Neurotechnology Centre. He is also the Director of the Leverhulme Doctoral Programme, a leading doctoral training initiative aimed at shaping the future of Responsible Hybrid Intelligence. His research brings together AI, neuroscience, information retrieval and human-AI interaction to understand human information needs and develop systems that respond to them. His work has received Best Paper Awards at ACM SIGIR and ECIR. He serves in senior reviewing roles at leading AI and information retrieval conferences and is an Associate Editor of ACM Transactions on Information Systems.
+    
 !!! example "リサーチセミナー Research Seminar #10 2026.10.21"
 
     ![](images/ir_seminar_10.jpg){ align="right" width="40%" }
