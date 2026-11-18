@@ -12,6 +12,13 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "第11回研究セミナー開催 11th Research Seminar"
+    ![](images/seminar11.jpg){ width="100%" }
+    情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、ストラスクライド大学のYashar Moshfeghi氏による「Bridging Minds and Machines: Towards Human-Centred and Cognitively Aware AI」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Yashar Moshfeghi (University of Strathclyde), titled "Bridging Minds and Machines: Towards Human-Centred and Cognitively Aware AI."
+
+    :calendar: 2026.11.18
+
+
 !!! tip "第10回研究セミナー開催 10th Research Seminar"
     ![](images/ir_seminar_10.jpg){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、インドネシア大学のRahmi氏による「Gen Z Searches: A Millennial Takes Notes」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Rahmi (University of Indonesia), titled "Gen Z Searches: A Millennial Takes Notes."
