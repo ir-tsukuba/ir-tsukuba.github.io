@@ -12,17 +12,17 @@ hide:
 
 <div class="grid" markdown>
 
-!!! tip "KDD 2027に2本の論文が採択 Two papers accepted at KDD 2027"
-    2027年8月に米国・サンノゼで開催される[KDD 2027](https://kdd2027.kdd.org/)に情報検索リサーチグループから[2本の論文が採択](publications.md)されました！ [Two papers](publications.md) from the Information Retrieval Research Group have been accepted to [KDD 2027](https://kdd2027.kdd.org/), which will be held in San Jose, USA in August 2027!
-
-    :calendar: 2026.11.14
-
-
 !!! tip "第11回研究セミナー開催 11th Research Seminar"
     ![](images/seminar11.jpg){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、ストラスクライド大学のYashar Moshfeghi氏による「Bridging Minds and Machines: Towards Human-Centred and Cognitively Aware AI」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Yashar Moshfeghi (University of Strathclyde), titled "Bridging Minds and Machines: Towards Human-Centred and Cognitively Aware AI."
 
     :calendar: 2026.11.18
+
+
+!!! tip "KDD 2027に2本の論文が採択 Two papers accepted at KDD 2027"
+    2027年8月に米国・サンノゼで開催される[KDD 2027](https://kdd2027.kdd.org/)に情報検索リサーチグループから[2本の論文が採択](publications.md)されました！ [Two papers](publications.md) from the Information Retrieval Research Group have been accepted to [KDD 2027](https://kdd2027.kdd.org/), which will be held in San Jose, USA in August 2027!
+
+    :calendar: 2026.11.14
 
 
 !!! tip "第10回研究セミナー開催 10th Research Seminar"
