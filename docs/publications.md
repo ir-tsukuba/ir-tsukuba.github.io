@@ -33,12 +33,12 @@ hide:
 !!! abstract "国際会議論文 International Conference Paper"
     ProtoRA: Training-Free Cross-City Region Embedding Alignment through Prototype-Relative Representations  
     Jia Hongwei, Zechen Li, Weiming Huang, Meng Chen, Hai-Tao Yu  
-    KDD'26: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+    KDD'27: Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 !!! abstract "国際会議論文 International Conference Paper"
     OMEN: Open-Modality Region Representation Learning via Anchor-Relative Observations  
     Jia Hongwei, Zechen Li, Weiming Huang, Meng Chen, Hai-Tao Yu  
-    KDD'26: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+    KDD'27: Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 !!! abstract "国際会議論文 International Conference Paper"
     Understanding LLM Search Behaviour in Product Search: A Controlled Multidimensional Analysis  
