@@ -26,6 +26,12 @@ hide:
     :calendar: 2026.11.18
 
 
+!!! tip "KDD 2027に2本の論文が採択 Two papers accepted at KDD 2027"
+    2027年8月に米国・サンノゼで開催される[KDD 2027](https://kdd2027.kdd.org/)に情報検索リサーチグループから[2本の論文が採択](publications.md)されました！ [Two papers](publications.md) from the Information Retrieval Research Group have been accepted to [KDD 2027](https://kdd2027.kdd.org/), which will be held in San Jose, USA in August 2027!
+
+    :calendar: 2026.11.14
+
+
 !!! tip "第10回研究セミナー開催 10th Research Seminar"
     ![](images/ir_seminar_10.jpg){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、インドネシア大学のRahmi氏による「Gen Z Searches: A Millennial Takes Notes」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Rahmi (University of Indonesia), titled "Gen Z Searches: A Millennial Takes Notes."
