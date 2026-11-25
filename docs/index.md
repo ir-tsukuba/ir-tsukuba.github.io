@@ -12,6 +12,13 @@ hide:
 
 <div class="grid" markdown>
 
+!!! tip "2026 情報検索湘南オフサイト合同研究発表会 Shonan Offsite IR Workshop 2026"
+    ![](images/IMG_4875s.jpg){ width="100%" }
+    早稲田大学酒井哲也研究室と合同で2026 情報検索湘南オフサイト合同研究発表会を開催しました。２日間にわたり計18件の研究成果が発表され、活発な議論が行われました。In collaboration with Tetsuya Sakai’s research group at Waseda University, we organized the Shonan Offsite IR Workshop 2026. Over the course of two days, 18 research projects were presented, leading to active and engaging discussions.
+
+    :calendar: 2026.11.21-22
+
+
 !!! tip "第11回研究セミナー開催 11th Research Seminar"
     ![](images/seminar11.jpg){ width="100%" }
     情報検索リサーチグループ主催の[研究セミナー](seminars.md)にて、ストラスクライド大学のYashar Moshfeghi氏による「Bridging Minds and Machines: Towards Human-Centred and Cognitively Aware AI」の講演が行われました。IR Group at Tsukuba hosted a [research seminar](seminars.md) featuring Yashar Moshfeghi (University of Strathclyde), titled "Bridging Minds and Machines: Towards Human-Centred and Cognitively Aware AI."
